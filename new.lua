@@ -346,7 +346,7 @@ do
                     Name = 'Notification'..tostring(Amount + 1),
                     BackgroundColor3 = Theme.BackgroundColor,
                     BorderSizePixel = 0,
-                    Position = UDim2.new(1, 300, 1, -30),
+                    Position = UDim2.new(0.336503863, 0, 0.275485456, 0),
                     Size = UDim2.new(0, 300, 0, 50),
                     Draggable = true,
                     BackgroundTransparency = NotificationTransparency,
